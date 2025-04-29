@@ -1,0 +1,58 @@
+﻿@model List<Contact>
+
+<section id="contact" class="contact section">
+
+    <!-- Section Title -->
+    <div class="container section-title" data-aos="fade-up">
+        <h2>İletişim</h2>
+        <p>Soru ve fikirleriniz için aşağıdaki iletişim veya mesaj kısmını kullanabilirsiniz.</p>
+    </div><!-- End Section Title -->
+
+    <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="row gy-4">
+
+            <div class="col-lg-5">
+                @foreach (var item in Model)
+                {
+                    <div class="info-wrap">
+                        <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="200">
+                            <i class="bi bi-geo-alt flex-shrink-0"></i>
+                            <div>
+                                <h3>Adres:</h3>
+                                <p>@item.Address</p>
+                            </div>
+                        </div><!-- End Info Item -->
+
+                        <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="300">
+                            <i class="bi bi-telephone flex-shrink-0"></i>
+                            <div>
+                                <h3>Telefon:</h3>
+                                <p>@item.Phone</p>
+                            </div>
+                        </div><!-- End Info Item -->
+
+                        <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="400">
+                            <i class="bi bi-envelope flex-shrink-0"></i>
+                            <div>
+                                <h3>Mail:</h3>
+                                <p>@item.Mail</p>
+                            </div>
+                        </div><!-- End Info Item -->
+
+                        <iframe src="@item.Map"></iframe>
+                    </div>
+                }
+            </div>
+            @await Component.InvokeAsync("_DefaultMessageComponentPartial")
+
+
+            <!-- End Contact Form -->
+
+        </div>
+
+    </div>
+
+</section>
+
+

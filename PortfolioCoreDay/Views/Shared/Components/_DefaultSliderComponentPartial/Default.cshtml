@@ -1,0 +1,22 @@
+﻿@model List<Work>
+<section id="hero" class="hero section dark-background">
+
+    <img src="/iportfolio-1.0.0/assets/img/pexels-felixmittermeier-956999.jpg" alt="" data-aos="fade-in" class="">
+
+    <div class="container" data-aos="fade-up" data-aos-delay="100">
+        <h2>Medine Hedekoğlu</h2>
+
+        <p>
+            İşlerim:
+            @foreach (var item in Model)
+            {
+                <span class="typed" data-typed-items="@item.WorkName"></span>
+
+                <span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span>
+                <span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span>
+            }
+        </p>
+
+    </div>
+
+</section>

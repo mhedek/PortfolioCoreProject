@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\E\u011Fitim\\PortfolioCoreDay\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E48A85C8-1D4E-47D9-9CEC-98F4D2C7B04A}|PortfolioCoreDay\\PortfolioCoreDay.csproj|d:\\e\u011Fitim\\portfoliocoreday\\portfoliocoreday\\views\\message\\listmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E48A85C8-1D4E-47D9-9CEC-98F4D2C7B04A}|PortfolioCoreDay\\PortfolioCoreDay.csproj|solutionrelative:portfoliocoreday\\views\\message\\listmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48A85C8-1D4E-47D9-9CEC-98F4D2C7B04A}|PortfolioCoreDay\\PortfolioCoreDay.csproj|d:\\e\u011Fitim\\portfoliocoreday\\portfoliocoreday\\views\\adminlayout\\partialsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E48A85C8-1D4E-47D9-9CEC-98F4D2C7B04A}|PortfolioCoreDay\\PortfolioCoreDay.csproj|solutionrelative:portfoliocoreday\\views\\adminlayout\\partialsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48A85C8-1D4E-47D9-9CEC-98F4D2C7B04A}|PortfolioCoreDay\\PortfolioCoreDay.csproj|d:\\e\u011Fitim\\portfoliocoreday\\portfoliocoreday\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E48A85C8-1D4E-47D9-9CEC-98F4D2C7B04A}|PortfolioCoreDay\\PortfolioCoreDay.csproj|solutionrelative:portfoliocoreday\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48A85C8-1D4E-47D9-9CEC-98F4D2C7B04A}|PortfolioCoreDay\\PortfolioCoreDay.csproj|d:\\e\u011Fitim\\portfoliocoreday\\portfoliocoreday\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48A85C8-1D4E-47D9-9CEC-98F4D2C7B04A}|PortfolioCoreDay\\PortfolioCoreDay.csproj|solutionrelative:portfoliocoreday\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PartialSidebar.cshtml",
+              "DocumentMoniker": "D:\\E\u011Fitim\\PortfolioCoreDay\\PortfolioCoreDay\\Views\\AdminLayout\\PartialSidebar.cshtml",
+              "RelativeDocumentMoniker": "PortfolioCoreDay\\Views\\AdminLayout\\PartialSidebar.cshtml",
+              "ToolTip": "D:\\E\u011Fitim\\PortfolioCoreDay\\PortfolioCoreDay\\Views\\AdminLayout\\PartialSidebar.cshtml",
+              "RelativeToolTip": "PortfolioCoreDay\\Views\\AdminLayout\\PartialSidebar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T20:43:02.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListMessage.cshtml",
+              "DocumentMoniker": "D:\\E\u011Fitim\\PortfolioCoreDay\\PortfolioCoreDay\\Views\\Message\\ListMessage.cshtml",
+              "RelativeDocumentMoniker": "PortfolioCoreDay\\Views\\Message\\ListMessage.cshtml",
+              "ToolTip": "D:\\E\u011Fitim\\PortfolioCoreDay\\PortfolioCoreDay\\Views\\Message\\ListMessage.cshtml",
+              "RelativeToolTip": "PortfolioCoreDay\\Views\\Message\\ListMessage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T20:38:21.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "D:\\E\u011Fitim\\PortfolioCoreDay\\PortfolioCoreDay\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "PortfolioCoreDay\\Controllers\\MessageController.cs",
+              "ToolTip": "D:\\E\u011Fitim\\PortfolioCoreDay\\PortfolioCoreDay\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "PortfolioCoreDay\\Controllers\\MessageController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T20:37:45.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\E\u011Fitim\\PortfolioCoreDay\\PortfolioCoreDay\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "PortfolioCoreDay\\Views\\Default\\Index.cshtml",
+              "ToolTip": "D:\\E\u011Fitim\\PortfolioCoreDay\\PortfolioCoreDay\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "PortfolioCoreDay\\Views\\Default\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T20:13:19.468Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
